@@ -43,10 +43,6 @@
 * [Help with translation](part3/translation.md)
 * [Donations](part3/donations.md)
 
-### Appendix
-
-* [Appendix A - Challenge solutions](appendix/solutions.md)
-* [Appendix B - Trainer's guide](appendix/trainers.md)
 
 ### Postface
 
